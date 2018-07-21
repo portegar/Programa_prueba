@@ -4,7 +4,7 @@ package programa;
 public class programa {
     //comentario
     
-    int  a ,b,z;
+    int  a ,b,z; //fgfgfgfgfg
     
     
 }
